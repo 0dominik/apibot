@@ -1,6 +1,6 @@
 # **Botventure Game Bot**
 
-A C# bot for interacting with the **Botventure** game via a RESTful API. It supports creating, joining, and managing games, retrieving game states, and automating game actions.
+A C# bot for interacting with the **Botventure** game via a RESTful API.
 
 ---
 
